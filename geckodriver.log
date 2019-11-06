@@ -1,0 +1,762 @@
+1573072357108	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofile8gMBmq"
+1573072358745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573072358745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573072358745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573072358745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573072361039	Marionette	INFO	Listening on port 65434
+1573072361222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8332445958269806924&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8332445958269806924&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573072383341	Marionette	INFO	Stopped listening on port 65434
+[Child 19276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19276, Chr[Child 18268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18268, Chrome_Chi[Parent 21940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2988, C[GPU 4092, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573072413872	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileXvrhwb"
+1573072414655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573072414655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573072414656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573072414656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573072416117	Marionette	INFO	Listening on port 65512
+1573072416483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8623651927382119607&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8623651927382119607&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15652155098460285884&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15652155098460285884&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573072434891	Marionette	INFO	Stopped listening on port 65512
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta[Parent 18184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18996, Chr[GPU 21436, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573072838718	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileA49iO4"
+1573072839045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573072839045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573072839045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573072839045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573072840360	Marionette	INFO	Listening on port 49733
+1573072840733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3561021117543232434&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3561021117543232434&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3262139906595796458&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3262139906595796458&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6519531166527601570&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6519531166527601570&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573072869532	Marionette	INFO	Stopped listening on port 49733
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12928, Chrome_Ch[Child 11212, Chrome_ChildThread] WARNING: pipe er[Parent 10392, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18268, [GPU 2
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573072888392	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileCu4ZuZ"
+1573072888689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573072888689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573072888690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573072888690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573072889921	Marionette	INFO	Listening on port 49836
+1573072890399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8712331384250737279&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8712331384250737279&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13135633825621280182&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13135633825621280182&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8866330414364582836&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8866330414364582836&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573072912438	Marionette	INFO	Stopped listening on port 49836
+[[Child 8688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17004, Chrome_ChildThre[GPU 13596, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573072950031	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileXaIh9v"
+1573072950395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573072950395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573072950395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573072950395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573072951821	Marionette	INFO	Listening on port 49948
+1573072952039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=10722197193344928381&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=10722197193344928381&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573072973530	Marionette	INFO	Stopped listening on port 49948
+[Parent 20692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15808, Chrome_ChildThread] WARNING: pipe error: 109: file z[Parent 20692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14952, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573073031142	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofile9uuf7B"
+1573073031427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573073031428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573073031428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573073031428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573073032783	Marionette	INFO	Listening on port 50065
+1573073033148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13372177205382142863&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13372177205382142863&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573073055438	Marionette	INFO	Stopped listening on port 50065
+[Child 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10204, Chrome_[Child 7452, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 7452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7452, Chrome_ChildThread] WARNING: pipe e[Parent 14696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19692[GPU 22140, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573073336811	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileyUnkjR"
+1573073337124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573073337124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573073337124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573073337124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573073338500	Marionette	INFO	Listening on port 50294
+1573073338817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=18326067713256069957&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=18326067713256069957&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6300563870990261899&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6300563870990261899&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3799537513547572712&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3799537513547572712&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573073362082	Marionette	INFO	Stopped listening on port 50294
+[Child 16436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16436, Chrome_[Child 19552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Parent 16916, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18276, Chrome_C[GPU 220
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+12, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573073417724	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileuLnbcK"
+1573073418030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573073418030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573073418030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573073418030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573073419278	Marionette	INFO	Listening on port 50405
+1573073419733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11000196873410783652&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11000196873410783652&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573073441297	Marionette	INFO	Stopped listening on port 50405
+[Parent 4300, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4300, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18628, Chrome_ChildThr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573073553511	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileiPl38R"
+1573073553818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573073553818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573073553818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573073553818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573073555162	Marionette	INFO	Listening on port 50542
+1573073555524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=10653380103607166430&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=10653380103607166430&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573073574517	Marionette	INFO	Stopped listening on port 50542
+[Child 20004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/ch[Ch[Parent 15992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1484, Chrome_Chil[GPU 4780, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+me
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573073621413	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileEMqC57"
+1573073621708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573073621708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573073621708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573073621708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573073623052	Marionette	INFO	Listening on port 50651
+1573073623418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=13722617641898737413&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=13722617641898737413&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3072658323054301285&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3072658323054301285&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573073641928	Marionette	INFO	Stopped listening on port 50651
+[Parent 9620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18500, Chrome_Ch[Parent 9620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22104, Chrome_ChildTh[Parent 9620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 162[GPU 2217
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573073695234	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofilekay5P8"
+1573073695522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573073695522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573073695522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573073695522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573073696914	Marionette	INFO	Listening on port 50755
+1573073697240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=16020009390959234823&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=16020009390959234823&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573073715316	Marionette	INFO	Stopped listening on port 50755
+[Child 22320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22320[Parent 21728, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7444, Chrome_ChildThread] WARNING: pip[Parent 21728, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21772, Chrome_Child[GPU 21076, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573073817001	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofiler20bPy"
+1573073817288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573073817288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573073817288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573073817288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573073818452	Marionette	INFO	Listening on port 50896
+1573073818535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9556635092226097567&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9556635092226097567&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=1830204617859625494&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=1830204617859625494&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573073836977	Marionette	INFO	Stopped listening on port 50896
+[Child 19644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19644,[Child 22712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22712, Chrome_ChildThread] WARNING: pip[Parent 16484, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19972, Chrome_ChildTh[GPU 2
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+156,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573074071362	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileqEtzt4"
+1573074071672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573074071672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573074071672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573074071672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573074073031	Marionette	INFO	Listening on port 51157
+1573074073373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13699384169584213165&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13699384169584213165&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8554522364468475300&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8554522364468475300&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573074092226	Marionette	INFO	Stopped listening on port 51157
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17352, Chrome_ChildThread][Child 22556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_c[Parent 448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9620, Chrome_Child[GPU 22
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+928,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573074127883	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofilexpqfep"
+1573074128161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573074128161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573074128162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573074128162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573074129432	Marionette	INFO	Listening on port 51268
+1573074129893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=5126454689741418279&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=5126454689741418279&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6989098518789621822&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6989098518789621822&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11831367476389213463&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11831367476389213463&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573074148301	Marionette	INFO	Stopped listening on port 51268
+[Parent 19796, Gecko_IOThread] WARNING: file z:/task_1572402546/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 19796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19644, Chrome_ChildThread] WARN[Parent 19796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16104, [GPU 2093
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573074300948	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileRGFxmG"
+1573074301261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573074301261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573074301261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573074301261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573074302484	Marionette	INFO	Listening on port 51437
+1573074302494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9445798279893219668&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9445798279893219668&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6628338586988603183&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6628338586988603183&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573074321586	Marionette	INFO	Stopped listening on port 51437
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 22504, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573074489358	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofilejVg9N6"
+1573074489645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573074489645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573074489645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573074489645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573074490959	Marionette	INFO	Listening on port 51640
+1573074491365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15867049742799177587&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15867049742799177587&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=12124164823929002182&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=12124164823929002182&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573074510245	Marionette	INFO	Stopped listening on port 51640
+[Child 20028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20028, JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191105/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Parent 22332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19908, Chrome_ChildThread] WARNING:[Parent 22332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21736, Chrome_Chil[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573074629082	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofile9OO5kV"
+1573074629536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573074629536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573074629536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573074629536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573074631182	Marionette	INFO	Listening on port 51788
+1573074631199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9159343120262510787&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9159343120262510787&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13929876030246543107&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13929876030246543107&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573074649618	Marionette	INFO	Stopped listening on port 51788
+[Child 18384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18384, Chrome_ChildThreJavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191105/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 23432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23432, Chrome_ChildThread] WARNI[GPU 13468, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573074780091	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileEF5QyF"
+1573074780377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573074780377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573074780377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573074780377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573074781617	Marionette	INFO	Listening on port 51937
+1573074782101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=752612546110653589&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=752612546110653589&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=7324803534016301016&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=7324803534016301016&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573074802592	Marionette	INFO	Stopped listening on port 51937
+[Child 16436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16436, C[Child 18400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19908, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17612, Ch[GPU 85
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573075174764	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofile0ZIyQi"
+1573075175251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573075175251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573075175251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573075175251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573075176541	Marionette	INFO	Listening on port 52403
+1573075176781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13155396649090957419&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13155396649090957419&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573075196484	Marionette	INFO	Stopped listening on port 52403
+[Child 
+###!!! [Child][MessageChannel] Error: (msgtype=0x570012,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+13724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13724, Chrome_ChildThread] [Parent 17352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573075238684	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileuhSlGe"
+1573075239131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573075239131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573075239131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573075239131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573075240661	Marionette	INFO	Listening on port 52540
+1573075240785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15980536474610414149&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15980536474610414149&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=829700792647433017&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=829700792647433017&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=953328822373300062&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=953328822373300062&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573075260731	Marionette	INFO	Stopped listening on port 52540
+[Child[Parent 16936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13120, Chrome_[GPU 18548, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573076266284	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofilei14qqn"
+1573076267021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573076267021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573076267022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573076267022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573076268445	Marionette	INFO	Listening on port 53493
+1573076268895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13269719398988994036&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=13269719398988994036&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11377056389615677215&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11377056389615677215&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573076287686	Marionette	INFO	Stopped listening on port 53493
+[Child 20320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20320, Chrome_ChildThread] WAR[GPU 20952, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573076290027	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofile379bPK"
+1573076290316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573076290317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573076290317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573076290317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573076291638	Marionette	INFO	Listening on port 53576
+1573076292037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8814434400224591435&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=8814434400224591435&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573076308368	Marionette	INFO	Stopped listening on port 53576
+[Child 2217[Parent 17580, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16780, C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573076499039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileSUxQUt"
+1573076499342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573076499342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573076499342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573076499342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573076500813	Marionette	INFO	Listening on port 53775
+1573076501066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3946669908294183041&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=3946669908294183041&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573076518592	Marionette	INFO	Stopped listening on port 53775
+[Child 15768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chr[Child 21684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2168[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573076520964	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileh2Oy1n"
+1573076521255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573076521255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573076521255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573076521255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573076522490	Marionette	INFO	Listening on port 53861
+1573076522971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=17357830992966678958&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9141282652192166491&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=9141282652192166491&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=18054318416733162698&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=18054318416733162698&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573076541627	Marionette	INFO	Stopped listening on port 53861
+[Parent 18020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22512, Chrome_ChildT[GPU 6988, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+h
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573077268729	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofilececCnx"
+1573077269015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573077269015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573077269016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573077269016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573077270708	Marionette	INFO	Listening on port 54361
+1573077270734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=4915686070375697366&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=4915686070375697366&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4909651462686376419/index.html#t=12101732228253442338&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4909651462686376419/index.html#t=12101732228253442338&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 198: TypeError: gwdAd.initAd is not a function
+1573077289763	Marionette	INFO	Stopped listening on port 54361
+[Child 20552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc[Child 17952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 19552, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573077292084	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileq9ePjL"
+1573077292373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573077292373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573077292373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573077292373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573077293651	Marionette	INFO	Listening on port 54463
+1573077294094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=18062834603539276006&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=18062834603539276006&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=2879087843896204522&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=2879087843896204522&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=10377553245620831151&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4909651462686376419/index.html#t=10947616300844650464&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=10377553245620831151&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/4909651462686376419/index.html#t=10947616300844650464&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 198: TypeError: gwdAd.initAd is not a function
+1573077312879	Marionette	INFO	Stopped listening on port 54463
+[Child 20220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21828, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573077315090	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileT6IUMS"
+1573077315377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573077315377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573077315378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573077315378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573077316619	Marionette	INFO	Listening on port 54556
+1573077317100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=14164682252156058004&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=14164682252156058004&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573077335519	Marionette	INFO	Stopped listening on port 54556
+[Child 20792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20792, [Child 15464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15464, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 5972, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20320, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573077502396	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileup0yTP"
+1573077502720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573077502720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573077502721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573077502721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573077504032	Marionette	INFO	Listening on port 54724
+1573077504428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=8831078401961761473&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/16904497958994717732/index.html#t=8831078401961761473&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6456957948554903313&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6456957948554903313&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573077522698	Marionette	INFO	Stopped listening on port 54724
+[Parent 22040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5388, Chrome_ChildThread] WARNING: pipe error: [Parent 22040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22004
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573077524928	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofilep7mNpa"
+1573077525218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573077525218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573077525219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573077525219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573077526593	Marionette	INFO	Listening on port 54816
+1573077526936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=341885337072077170&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=341885337072077170&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+Invalid SOS parameters for sequential JPEG
+1573077546164	Marionette	INFO	Stopped listening on port 54816
+[Child 11372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11372[Child 14240, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14352, [GPU 7876
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573077548360	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileVMTF0m"
+1573077548668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573077548668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573077548669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573077548669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573077550161	Marionette	INFO	Listening on port 54902
+1573077550367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15784231673045461356&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15784231673045461356&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6395627020491075509&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=6395627020491075509&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11133014954251476483&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=11133014954251476483&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573077568734	Marionette	INFO	Stopped listening on port 54902
+[Child 11884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11884, Chrome[Child 15936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15936, Chrome_ChildThread] WARNING:[Parent 17512, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22556
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14304, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573077570905	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofilespEi26"
+1573077571188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573077571188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573077571188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573077571188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573077572600	Marionette	INFO	Listening on port 54991
+1573077572911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191105/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15045897283438459264&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=15045897283438459264&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573077589615	Marionette	INFO	Stopped listening on port 54991
+[Child 24516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 24140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24456,[GPU 24328, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+m
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573078039202	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileXj0R4v"
+1573078039515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573078039515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573078039515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573078039515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573078041100	Marionette	INFO	Listening on port 55369
+1573078041270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=2467269395612213046&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6735431610362185172/index.html#t=2467269395612213046&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 195: TypeError: gwdAd.initAd is not a function
+1573078059224	Marionette	INFO	Stopped listening on port 55369
+[Child 23736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23736,[Child 14360, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 14360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas[Parent 2480, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 192[GPU 23612, Chrome_C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573078061384	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeNNdd11\\AppData\\Local\\Temp\\rust_mozprofileBCJWfL"
+1573078061814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573078061814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573078061814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573078061815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573078063259	Marionette	INFO	Listening on port 55457
+[Child 2944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2944[Parent 7500, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23788, Chro1573078161307	Marionette	INFO	Stopped listening on port 55457
+[GPU 23464, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
