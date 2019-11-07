@@ -18,3 +18,7 @@ there "http://doc.pytest.org/en/latest/example/markers.html"
 
 Third:
 In project you can use markers, which you can see in pytest.ini, more about markers you can see there "https://habr.com/ru/post/269759/"
+Also, you can choose language for tests. Use fixture --language=eng or --language=ru
+
+How to run tests 
+Run tests in terminal or in command prompt（cmd）, pytest -s --browser_name=firefox test_getnada.py
